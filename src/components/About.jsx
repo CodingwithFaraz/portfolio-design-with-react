@@ -20,7 +20,7 @@ function About() {
                 <span className='text-purple-300'> Me </span> 
             
             </h2>
-            <p className='text-gray-300 max-w-2xl mx-auto text-center mb-16'>Hi, I’m Syed Faraz Ali , a Web Developer & Digital Creator focused on transforming ideas into modern,engaging digital experiences.
+            <p className='text-gray-300 max-w-2xl mx-auto text-center mb-16'>Hi, I’m Shahwaz , Full Stack Developer & Digital Creator focused on transforming ideas into modern,engaging digital experiences.
               From high-performance websites to innovative digital solutions,I combine technology, creativity, and thoughtful design to 
               help brands build a stronger and more impactful online presence.</p>
 

@@ -12,9 +12,9 @@ function Navbar() {
           <div className="text-3xl text-purple-400">
             <LuGitCompareArrows />
           </div>
-          <a href="#" className="text-3xl font-bold text-white">
-            Syed
-            <span className="text-purple-400"> Faraz </span> Ali
+          <a href="#" className="text-3xl font-bold text-white text-capitalize">
+            
+            <span className="text-purple-400"> Shahwaz </span> Khan
           </a>
         </div>
         <div className="hidden md:flex space-x-10">
