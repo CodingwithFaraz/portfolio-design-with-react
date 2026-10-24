@@ -16,6 +16,7 @@ function Home() {
       <Projects/>
       <Work/>
       <Contact/>
+      
     </div>
   )
 }

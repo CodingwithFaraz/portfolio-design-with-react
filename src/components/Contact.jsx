@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { FaMapMarkerAlt, FaEnvelope, FaGithub  } from "react-icons/fa";
+import { FaMapMarkerAlt, FaEnvelope, FaGithub, FaLinkedin  } from "react-icons/fa";
 import { FaPhone } from "react-icons/fa6";
 
 
@@ -69,16 +69,24 @@ function Contact() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold mb-2">Phone</h3>
-                  <p className="text-gray-300">+92 0123 4567</p>
+                  <p className="text-gray-300">+92 012 34567 890</p>
                 </div>
               </div>
               <div className="pt-4">
-                <h3>Follow Me</h3>
-                <div className="flex space-x-r">
-                  <a href="#" className="w-12 h-12 rounded-full bg-black-300 flex items-center">
+                <h3 className="text-lg font-semibold mb-4">Follow Me</h3>
+                <div className="flex space-x-4">
+                  <a href="#" className="w-12 h-12 rounded-full bg-gray-300 flex items-center justify-center text-black hover:bg-purple-300 hover:text-black transtion duration-300">
                     <FaGithub/>
                   </a>
+
+                  <a href="#" className="w-12 h-12 rounded-full bg-gray-300 flex items-center justify-center text-black hover:bg-purple-300 hover:text-black transtion duration-300">
+                    <FaLinkedin/>
+                  </a>
+
                 </div>
+                
+                  
+              
               </div>
             </div>
 
