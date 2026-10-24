@@ -50,7 +50,7 @@ function Contact() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold mb-2">Location</h3>
-                  <p className="text-gray-300">ABC, City </p>
+                  <p className="text-gray-300">Lahore, Pakistan</p>
                 </div>
               </div>
               <div className="flex items-start">
